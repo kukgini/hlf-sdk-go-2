@@ -3,6 +3,7 @@ package api
 import (
 	"github.com/hyperledger/fabric/protos/peer"
 	"github.com/s7techlab/hlf-sdk-go/api/config"
+	"go.uber.org/zap"
 )
 
 const (
@@ -12,7 +13,7 @@ const (
 type DiscoveryProviderOpts map[string]interface{}
 
 type DiscoveryProvider interface {
-	Initialize(opts config.DiscoveryConfigOpts, pool PeerPool) (DiscoveryProvider, error)
+	Initialize(opts config.DiscoveryConfigOpts, pool PeerPool, log *zap.Logger) (DiscoveryProvider, error)
 	Channels() ([]DiscoveryChannel, error)
 	Chaincode(channelName string, ccName string) (*DiscoveryChaincode, error)
 	Chaincodes(channelName string) ([]DiscoveryChaincode, error)
