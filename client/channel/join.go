@@ -6,8 +6,8 @@ import (
 	"github.com/s7techlab/hlf-sdk-go/client/chaincode/system"
 	"github.com/s7techlab/hlf-sdk-go/util"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric/protos/common"
-	"github.com/hyperledger/fabric/protos/orderer"
+	"github.com/hyperledger/fabric-protos-go/common"
+	"github.com/hyperledger/fabric-protos-go/orderer"
 	"github.com/pkg/errors"
 )
 

@@ -17,6 +17,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.11.1 // indirect
 	github.com/hashicorp/go-version v1.2.0 // indirect
 	github.com/hyperledger/fabric v1.4.4
+	github.com/hyperledger/fabric-protos-go v0.0.0-20200124220212-e9cfc186ba7b
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect

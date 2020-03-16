@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/protos/peer"
+	"github.com/hyperledger/fabric-protos-go/peer"
 )
 
 // Invoker interface describes common operations for chaincode

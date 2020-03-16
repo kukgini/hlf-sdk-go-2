@@ -2,8 +2,8 @@ package subs
 
 import (
 	"github.com/hyperledger/fabric/core/ledger/util"
-	"github.com/hyperledger/fabric/protos/common"
-	"github.com/hyperledger/fabric/protos/peer"
+	"github.com/hyperledger/fabric-protos-go/common"
+	"github.com/hyperledger/fabric-protos-go/peer"
 
 	"github.com/s7techlab/hlf-sdk-go/api"
 	utilSDK "github.com/s7techlab/hlf-sdk-go/util"

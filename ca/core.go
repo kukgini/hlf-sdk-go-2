@@ -13,7 +13,7 @@ import (
 	"github.com/s7techlab/hlf-sdk-go/crypto"
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric/msp"
-	mspPb "github.com/hyperledger/fabric/protos/msp"
+	mspPb "github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/pkg/errors"
 )
 

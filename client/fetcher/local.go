@@ -5,7 +5,7 @@ import (
 
 	"github.com/s7techlab/hlf-sdk-go/api"
 	"github.com/hyperledger/fabric/core/chaincode/platforms"
-	"github.com/hyperledger/fabric/protos/peer"
+	"github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"
 )
 

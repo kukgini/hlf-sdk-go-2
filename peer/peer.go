@@ -9,7 +9,7 @@ import (
 	"github.com/s7techlab/hlf-sdk-go/api/config"
 	"github.com/s7techlab/hlf-sdk-go/util"
 	"github.com/hyperledger/fabric/core/chaincode/shim"
-	fabricPeer "github.com/hyperledger/fabric/protos/peer"
+	fabricPeer "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"

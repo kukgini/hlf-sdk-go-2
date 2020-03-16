@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/protos/peer"
+	"github.com/hyperledger/fabric-protos-go/peer"
 	"google.golang.org/grpc"
 )
 

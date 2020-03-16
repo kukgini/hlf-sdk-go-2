@@ -9,7 +9,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric/msp"
 	_ "github.com/hyperledger/fabric/msp"
-	mspPb "github.com/hyperledger/fabric/protos/msp"
+	mspPb "github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/pkg/errors"
 
 	"github.com/s7techlab/hlf-sdk-go/api"
