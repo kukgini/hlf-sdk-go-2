@@ -1,4 +1,4 @@
-module github.com/kukgini/hlf-sdk-go-2-2
+module github.com/kukgini/hlf-sdk-go-2
 
 go 1.12
 
