@@ -19,8 +19,8 @@ import (
 	"google.golang.org/grpc/resolver"
 	"google.golang.org/grpc/resolver/manual"
 
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/opencensus/hlf"
+	"github.com/kukgini/hlf-sdk-go-2/api/config"
+	"github.com/kukgini/hlf-sdk-go-2/opencensus/hlf"
 )
 
 var (

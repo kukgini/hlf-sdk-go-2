@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/util"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/api/config"
+	"github.com/kukgini/hlf-sdk-go-2/util"
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 	fabricPeer "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"

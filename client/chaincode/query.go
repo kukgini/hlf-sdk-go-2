@@ -7,8 +7,8 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	fabricPeer "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/peer"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/peer"
 )
 
 type QueryBuilder struct {

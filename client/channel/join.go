@@ -3,8 +3,8 @@ package channel
 import (
 	"context"
 
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode/system"
-	"github.com/s7techlab/hlf-sdk-go/util"
+	"github.com/kukgini/hlf-sdk-go-2/client/chaincode/system"
+	"github.com/kukgini/hlf-sdk-go-2/util"
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/orderer"

@@ -12,8 +12,8 @@ import (
 	mspPb "github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/util"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/util"
 )
 
 type mspIdentity struct {

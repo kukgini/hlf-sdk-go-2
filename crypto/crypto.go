@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"sync"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/api/config"
 	"github.com/pkg/errors"
 )
 

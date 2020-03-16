@@ -4,9 +4,9 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/discovery"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/api/config"
+	"github.com/kukgini/hlf-sdk-go-2/discovery"
 )
 
 const Name = `local`

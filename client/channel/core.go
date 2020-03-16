@@ -6,8 +6,8 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	"github.com/kukgini/hlf-sdk-go-2/client/chaincode"
 )
 
 type Core struct {

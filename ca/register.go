@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/s7techlab/hlf-sdk-go/api/ca"
+	"github.com/kukgini/hlf-sdk-go-2/api/ca"
 	"github.com/pkg/errors"
 )
 

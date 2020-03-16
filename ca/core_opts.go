@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/s7techlab/hlf-sdk-go/api/config"
+	"github.com/kukgini/hlf-sdk-go-2/api/config"
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v2"
 )

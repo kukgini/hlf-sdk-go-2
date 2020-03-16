@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/s7techlab/hlf-sdk-go/api/ca"
+	"github.com/kukgini/hlf-sdk-go-2/api/ca"
 	"github.com/pkg/errors"
 )
 

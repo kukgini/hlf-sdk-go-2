@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/s7techlab/hlf-sdk-go/client"
-	_ "github.com/s7techlab/hlf-sdk-go/crypto/ecdsa"
-	_ "github.com/s7techlab/hlf-sdk-go/discovery/local"
-	"github.com/s7techlab/hlf-sdk-go/identity"
+	"github.com/kukgini/hlf-sdk-go-2/client"
+	_ "github.com/kukgini/hlf-sdk-go-2/crypto/ecdsa"
+	_ "github.com/kukgini/hlf-sdk-go-2/discovery/local"
+	"github.com/kukgini/hlf-sdk-go-2/identity"
 	"go.uber.org/zap"
 )
 

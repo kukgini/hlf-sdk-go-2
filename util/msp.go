@@ -10,7 +10,7 @@ import (
 	"io/ioutil"
 	"path"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
+	"github.com/kukgini/hlf-sdk-go-2/api"
 	"github.com/pkg/errors"
 )
 

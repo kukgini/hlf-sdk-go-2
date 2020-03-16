@@ -12,7 +12,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/utils"
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/crypto"
+	"github.com/kukgini/hlf-sdk-go-2/crypto"
 )
 
 func SeekEnvelope(channelName string, startPos *orderer.SeekPosition, stopPos *orderer.SeekPosition, identity msp.SigningIdentity) (*common.Envelope, error) {

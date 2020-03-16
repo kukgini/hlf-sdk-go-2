@@ -5,8 +5,8 @@ import (
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/peer"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	utilSDK "github.com/s7techlab/hlf-sdk-go/util"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	utilSDK "github.com/kukgini/hlf-sdk-go-2/util"
 )
 
 func NewEventSubscription(cid string, fromTx api.ChaincodeTx) *EventSubscription {

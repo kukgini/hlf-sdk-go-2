@@ -12,8 +12,8 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"
-	"github.com/s7techlab/hlf-sdk-go/api"
-	peerSDK "github.com/s7techlab/hlf-sdk-go/peer"
+	"github.com/kukgini/hlf-sdk-go-2/api"
+	peerSDK "github.com/kukgini/hlf-sdk-go-2/peer"
 )
 
 type lscc struct {

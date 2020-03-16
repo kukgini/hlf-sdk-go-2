@@ -9,7 +9,7 @@ import (
 	"github.com/pkg/errors"
 	cckittesting "github.com/s7techlab/cckit/testing"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
+	"github.com/kukgini/hlf-sdk-go-2/api"
 	"github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric-protos-go/peer"
 )

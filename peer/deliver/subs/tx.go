@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric-protos-go/utils"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
+	"github.com/kukgini/hlf-sdk-go-2/api"
 )
 
 func NewTxSubscription(txId api.ChaincodeTx) *TxSubscription {

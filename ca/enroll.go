@@ -10,7 +10,7 @@ import (
 	"encoding/pem"
 	"net/http"
 
-	"github.com/s7techlab/hlf-sdk-go/api/ca"
+	"github.com/kukgini/hlf-sdk-go-2/api/ca"
 	"github.com/cloudflare/cfssl/signer"
 	"github.com/pkg/errors"
 )
