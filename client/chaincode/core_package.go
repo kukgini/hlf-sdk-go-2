@@ -6,11 +6,11 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric/common/cauthdsl"
 	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric-protos-go/utils"
 	"github.com/pkg/errors"
 
-	"github.com/kukgini/hlf-sdk-go-2/api"
 	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/hyperledger/fabric/protoutil"
+	"github.com/kukgini/hlf-sdk-go-2/api"
 )
 
 type corePackage struct {

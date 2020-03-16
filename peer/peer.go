@@ -8,7 +8,7 @@ import (
 	"github.com/kukgini/hlf-sdk-go-2/api"
 	"github.com/kukgini/hlf-sdk-go-2/api/config"
 	"github.com/kukgini/hlf-sdk-go-2/util"
-	"github.com/hyperledger/fabric/core/chaincode/shim"
+	"github.com/hyperledger/fabric-chaincode-go/shim"
 	fabricPeer "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
